@@ -234,9 +234,9 @@ yeelight是小米生态链企业，它的主要灯光产品有两个，一个是
 
 [2]:  http://www.ZigBee.org/ZigBeealliance/our-members/ ZigBee Alliance members
 
-[3]:  https://zh.wikipedia.org/wiki/ZigBee   "ZigBee Wikipedia"
+[3]:  https://zh.wikipedia.org/wiki/ZigBee   ZigBee Wikipedia
 
-[4]:  http://www.anandtech.com/show/6805/philips-hue-automated-home-lighting-gets-colorful/3   "Philips Hue Teardonw"
+[4]:  http://www.anandtech.com/show/6805/philips-hue-automated-home-lighting-gets-colorful/3   Philips Hue Teardown
 
 [5]:  http://www.st.com/web/catalog/mmc/FM141/SC1169/SS1575/LN9/PF250182?sc=internet/mcu/product/250182.jsp STM32F217VE
 

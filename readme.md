@@ -230,17 +230,16 @@ yeelight是小米生态链企业，它的主要灯光产品有两个，一个是
 
 
 
-[1]: Smart Lighting Market by Connectivity Technologies http://www.marketsandmarkets.com/Market-Reports/smart-lighting-market-985.html
+[1]:  http://www.marketsandmarkets.com/Market-Reports/smart-lighting-market-985.html Smart Lighting Market by Connectivity Technologies
 
-[2]: ZigBee Alliance members
-http://www.ZigBee.org/ZigBeealliance/our-members/
+[2]:  http://www.ZigBee.org/ZigBeealliance/our-members/ ZigBee Alliance members
 
-[3]: "ZigBee Wikipedia" https://zh.wikipedia.org/wiki/ZigBee
+[3]:  https://zh.wikipedia.org/wiki/ZigBee   "ZigBee Wikipedia"
 
-[4]: "Philips Hue Teardonw" http://www.anandtech.com/show/6805/philips-hue-automated-home-lighting-gets-colorful/3
+[4]:  http://www.anandtech.com/show/6805/philips-hue-automated-home-lighting-gets-colorful/3   "Philips Hue Teardonw"
 
-[5]: STM32F217VE http://www.st.com/web/catalog/mmc/FM141/SC1169/SS1575/LN9/PF250182?sc=internet/mcu/product/250182.jsp
+[5]:  http://www.st.com/web/catalog/mmc/FM141/SC1169/SS1575/LN9/PF250182?sc=internet/mcu/product/250182.jsp STM32F217VE
 
-[6]: ZigBee http://www.ti.com/lsds/ti/wireless_connectivity/ZigBee/overview.page
+[6]:  http://www.ti.com/lsds/ti/wireless_connectivity/ZigBee/overview.page    ZigBee
 
-[7]: Zhihu https://www.zhihu.com/question/20841491/answer/21457681
+[7]:  https://www.zhihu.com/question/20841491/answer/21457681 Zhihu
